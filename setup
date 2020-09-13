@@ -77,7 +77,7 @@ echo
 echo -e "\e[92m[+] Setting up samay \e[m "
 echo 
 cp -R phs /data/data/com.termux/files/usr/bin
-cp -R shark /data/data/com.termux/files/usr/bin
+cp -R samay /data/data/com.termux/files/usr/bin
 ###########XXXXXXXXXXXXX####################
 #     JUST LEARNING KEEP SUPPORTING        #
 ############XXXXXXXXXXXX####################
